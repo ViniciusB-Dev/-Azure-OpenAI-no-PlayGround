@@ -17,7 +17,7 @@ O **Playground do Azure OpenAI** oferece uma interface interativa para testar e 
 
 ### 🖼️ Interface do Playground
 
-![Chat Playground](assets/chat-playground-new.png)
+![Chat Playground](/chat-playground-new.png)
 
 Na tela acima, podemos ver:
 
@@ -34,7 +34,7 @@ Ao clicar em **"Add a data source"**, é possível incluir documentos que serão
 
 ### ⚙️ Configurações Avançadas
 
-![Configurações Avançadas](assets/studio-advanced-settings.png)
+![Configurações Avançadas](/studio-advanced-settings.png)
 
 Após adicionar os dados, é possível ajustar:
 
